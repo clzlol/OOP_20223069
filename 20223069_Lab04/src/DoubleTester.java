@@ -7,3 +7,4 @@ public class DoubleTester
        System.out.println(percentage);
     } 
 }
+       

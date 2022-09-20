@@ -2,7 +2,7 @@ class  CastTwo {
 	public static void main(String args[]) {
 		byte     byte1 ;
 		short    short1;
-		char     char1 = '\ud55c';
+		char     char1 = '\ud55c'; //char1 = '한';
 		int      int1;
 		float    float1 = 3.6f;
 
